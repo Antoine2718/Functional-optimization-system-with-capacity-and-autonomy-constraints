@@ -10,4 +10,6 @@ Study of an initial solution, then application of an intra-tour 2-Opt, followed 
 • 2-Opt: intra-toured local improvement after each accepted move.
 
 ## How to use ?
-**Use a JVM or an online interpreter as [Scastie](https://scastie.scala-lang.org)**
+**Use a JVM or an online interpreter as [Scastie](https://scastie.scala-lang.org) and copy code**
+
+You can change the characteristics in the "Execution" section (line 147) to stick to the problem you want to solve.
