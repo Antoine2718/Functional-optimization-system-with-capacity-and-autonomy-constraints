@@ -144,7 +144,7 @@ object TabuSearch {
   }
 }
 
-// Exemple d’exécution
+// Exécution
 object VRPApp extends App {
   val customers = (1 to 50).map { i =>
     Customer(i, demand = Random.nextInt(10) + 1, Location(Random.nextDouble()*100, Random.nextDouble()*100))
