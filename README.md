@@ -1,4 +1,4 @@
-# Functional-optimization-system-with-capacity-and-autonomy-constraints
+# Functional optimization system for VRP with capacity and autonomy constraints
 
 ## Works
 This project aims to solve a tour optimization problem with capacity and autonomy constraints.
