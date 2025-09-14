@@ -3,7 +3,7 @@
 ## Works
 This project aims to solve a tour optimization problem with capacity and autonomy constraints.
 
-This problem, which is both an algorithmic problem and a business problem, is of crucial importance given the transition to **sustainable modes of transport like electric/hydrogen plane**.
+This problem, which is both an algorithmic problem and a business problem, is of crucial importance given the transition to **sustainable modes of transport like electric/$H_2$ plane**.
 
 Study of an initial solution, then application of an intra-tour 2-Opt, followed by a Tabu Search with Relocate and Swap (inter/intra-tour) movements.
 
